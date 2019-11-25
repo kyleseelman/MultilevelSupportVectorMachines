@@ -1,6 +1,6 @@
 # Multi-level Support Vector Machines
 
-My undergraduate thesis on a multi-level framework for support vector machines
+My undergraduate thesis on a multi-level framework for support vector machines. Link to paper https://kseelma.people.clemson.edu/Multilevel_Support_Vector_Machines.pdf
 
 # Abstract 
 
